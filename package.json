@@ -1,0 +1,28 @@
+{
+  "name": "d1a4bbc78d9268c6e7fad7f6a2aa931e",
+  "title": "d1a4bbc78d9268c6e7fad7f6a2aa931e",
+  "version": "1.0.0",
+  "description": "d1a4bbc78d9268c6e7fad7f6a2aa931e",
+  "main": "index.js",
+  "files": [
+    "README.md",
+    "android",
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "metronome"
+  ],
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": ">=16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
